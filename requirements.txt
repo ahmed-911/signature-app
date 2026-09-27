@@ -1,0 +1,5 @@
+streamlit==1.55.0
+streamlit-cropper==0.3.1
+pypdfium2>=4.30,<6
+Pillow>=10,<13
+numpy>=1.26,<3
